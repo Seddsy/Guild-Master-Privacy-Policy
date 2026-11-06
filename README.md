@@ -1,7 +1,7 @@
 # Guild Master Privacy Policy
 
 **Last updated:** 6 November 2026  
-**Application:** Guild Master 1.1.4
+**Application:** Guild Master 1.1.5
 
 Guild Master helps Root communities organize guilds, a starting five and a separate Coach, team preparation and Renown. This policy explains the information used by those features and optional Master Series connections. It supplements Root's privacy information and any separate notices from your community.
 
@@ -79,7 +79,7 @@ Pairing does not by itself provide a legal basis for disclosure. Connected proce
 
 The app can store a light/dark theme preference in device local storage. The app code has no advertising cookies, third-party analytics SDK or tracking beacon. Root's client and hosting have their own storage and telemetry practices.
 
-Help videos are stored with the app on Root and delivered through Root when you select **Load video**. Small poster images remain part of the interface. Tutorials use fictional example data and do not require an external video account. Loading a video requires an active Root connection. Closing Help or hiding the app stops requesting further video data and releases the player; a request already sent may still finish. The player does not record the viewer or upload a viewing history to a separate tutorial service.
+Help videos are stored with the app on Root. Opening Help on a specific screen automatically retrieves the first recommended tutorial available to your role; selecting a lesson in the tutorial library retrieves that selected video. Only the opened lesson is loaded, and playback starts when you press **Play**. Small poster images remain part of the interface. Tutorials use fictional example data and do not require an external video account. Loading a video requires an active Root connection. Closing Help or hiding the app stops requesting further video data and releases the player; a request already sent may still finish. The player does not record the viewer or upload a viewing history to a separate tutorial service.
 
 Opening an external link, including this policy on GitHub, involves that destination's ordinary browser/network processing. GitHub's handling of visits to its pages is described in its [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). We do not publish guild member records in the policy repository. Direct email handling is described below.
 
